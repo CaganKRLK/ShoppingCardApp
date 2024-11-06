@@ -1,3 +1,4 @@
 defoultJsonName = 'products.json'
-language = 'en'
 encoding = 'utf-8'
+currencySymbol = '₺'
+exitkey = 'quit'
